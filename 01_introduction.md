@@ -8,8 +8,11 @@ ML algorithms can be divided into three main types:
 1. supervised learning
 2. unsupervised learning
 3. reinforcement learning
+
 ***Supervised learning*** is when the algorithm learns from labeled data, such as images with captions or emails with spam or not spam labels. 
+
 ***Unsupervised learning*** is when the algorithm learns from unlabeled data, such as customer transactions or social media posts. 
+
 ***Reinforcement learning*** is when the algorithm learns from its own actions and rewards, such as a self-driving car or a video game agent,etc.,
 
 ### What is Deep Learning(DL)?
